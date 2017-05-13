@@ -8,8 +8,8 @@ permalink: thewhitefox.ninja/about/
 
 You can find the source code for this blog
 {% include icon-github.html username="theWhiteFox" %} /
-[minima](https://github.com/theWhiteFox/blog)
+[blog](/blog)
 
 You can find the source code for theWhiteFox.ninja
 {% include icon-github.html username="theWhiteFox" %} /
-[theWhiteFox](https://github.com/theWhiteFox/blog)
+[theWhiteFox]()
