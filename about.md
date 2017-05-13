@@ -1,15 +1,15 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: thewhitefox.ninja/about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+ I's me [theWhiteFox.ninja](http://theWhiteFox.ninja/) and this is my blog.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+You can find the source code for this blog
+{% include icon-github.html username="theWhiteFox" %} /
+[minima](https://github.com/theWhiteFox/blog)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find the source code for theWhiteFox.ninja
+{% include icon-github.html username="theWhiteFox" %} /
+[theWhiteFox](https://github.com/theWhiteFox/blog)
