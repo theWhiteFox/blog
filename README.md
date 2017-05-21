@@ -30,3 +30,5 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
 
 [build blog jekyll github pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
+[Disqus](https://disqus.com/)
+
