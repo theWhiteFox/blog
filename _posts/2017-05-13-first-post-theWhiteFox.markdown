@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "theWhiteFox First Post"
-date:   2017-05-13 17:55:41 +0100
+date:   2017-05-13 17:55:41
 categories: jekyll first month
 ---
 
