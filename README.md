@@ -7,9 +7,9 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
 | Lanuages     | Dependencies 	  | 
 | ------------ | :--------------- |
 | HTML 		   | Jekyll   	  |
-| CSS 		   | Ruby      	  |
-| JS           | Liquid  	  |
-| SASS           | Disqus	  |
+| Ruby		   | RubyGems     |
+| JS           |  Disqus	  |
+| SASS         |              |
 
 
 
@@ -31,4 +31,6 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
 [build blog jekyll github pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
 [Disqus](https://disqus.com/)
+
+[Theme minima](https://github.com/jekyll/minima)
 
