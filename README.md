@@ -18,7 +18,7 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
  - [Install Jekyll](http://jekyllrb.com/)
  - First, cd into the folder where your Jekyll website is stored.
  - Then, jekyll serve --watch. (Jekyll explains more build options.)
- - View your website at http://0.0.0.0:4000.
+ - View your website at http://127.0.0.1:4000.
  - When you’re done, commit the changes and push everything to the master branch of your GitHub user website. GitHub Pages will then rebuild and serve the website.
 
 
