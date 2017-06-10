@@ -34,3 +34,4 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
 
 [Theme minima](https://github.com/jekyll/minima)
 
+## My Workspace

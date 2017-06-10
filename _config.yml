@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.thewhitefox.ninja" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: steTheWhiteFox
 github_username:  theWhiteFox
-thisSite: "http://thewhitefox.ninja"
+my_site: "http://thewhitefox.ninja"
 
 # Build settings
 markdown: kramdown
