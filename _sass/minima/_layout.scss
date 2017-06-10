@@ -102,6 +102,9 @@
   }
 }
 
+.home {
+  background-color: white;
+}
 
 
 /**
@@ -177,20 +180,25 @@
 /**
  * Page content
  */
-.page-content {
-  padding: $spacing-unit 0;
-}
+// .page-content {
+//   padding: $spacing-unit 0;
+// }
 
 .page-heading {
   @include relative-font-size(1.25);
+  padding: 1em 0em 1em .5em;
+  background-color: $my-site-color;
+  color: white;
 }
 
 .post-list {
   margin-left: 0;
-  list-style: none;
+  list-style: none;  
+  padding-left: .5em;
 
   > li {
     margin-bottom: $spacing-unit;
+    border-bottom: 1px solid $my-site-color;
   }
 }
 
@@ -201,7 +209,7 @@
 
 .post-link {
   display: block;
-  @include relative-font-size(1.5);
+  @include relative-font-size(1.2);
 }
 
 
