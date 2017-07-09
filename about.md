@@ -3,7 +3,9 @@ layout: default
 title: About
 permalink: thewhitefox.ninja/about/
 ---
-![](http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg)
+
+<img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
+
 
 blog code on GitHub [blog.theWhiteFox](https://github.com/theWhiteFox/blog) for `blog.theWhiteFox.ninja` 
 
