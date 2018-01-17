@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "-JavaScript Algorithms"
+title:  "JavaScript Algorithms"
 date:   2018-01-16 21:58:41
 categories: JavaScript
 ---
