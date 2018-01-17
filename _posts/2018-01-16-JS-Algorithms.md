@@ -1,10 +1,10 @@
 ---
 layout: post
-title: JS Algorithms
-date: {}
+title:  "Learning to Master JS"
+date:   2018-01-16 21:58:41
 categories: JavaScript
-published: true
 ---
+
 I want to improve my problem solving skills, these are some JS algorithms that I am going to learn to write not memorize.
 
 Algorithms
