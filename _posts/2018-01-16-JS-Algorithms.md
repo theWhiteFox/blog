@@ -13,7 +13,9 @@ Algorithms
 - Dijkstra
 
 [thewhitefox JS Algorithms](http://thewhitefox.github.io/Algorithms-JS/)
+
 [Why are algorithms so important](https://www.quora.com/Why-are-algorithms-so-important)
+
 [How to Implement Dijkstras](https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04)
 
 Book
