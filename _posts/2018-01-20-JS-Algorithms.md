@@ -9,7 +9,7 @@ I love to cook / eat delicious food (especially sauces) I love to read and learn
 
 I want to improve my problem solving JS writing skills, these are some JS algorithms that I am going to learn to write not to memorize. 
 
-I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox/](https://gist.github.com/theWhiteFox/) and [repl.it](https://repl.it) to write, debug, display and output the code.
+I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox](https://gist.github.com/theWhiteFox/) and [repl.it](https://repl.it) to write, debug, display and output the code.
 
 Algorithms
 - Fibonacci
