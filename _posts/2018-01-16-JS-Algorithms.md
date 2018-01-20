@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  "JavaScript Algorithms"
-date:   2018-01-16 21:58:41
+title: JavaScript Algorithms
+date: {}
 categories: JavaScript
+published: true
 ---
+I love to cook delicious food, especially sauces and I love to read and learn new recipes. Algorithms for me are like recipes in programming. So as my cooking skills have improved by learning recipes, I hope my programming skills will improve by learning algorithms. I choose JS as the language to learn these algorithms / recipes because it the language of the web and a language I want to master.
 
-I want to improve my problem solving skills, these are some JS algorithms that I am going to learn to write not memorize.
+I want to improve my problem solving JS writing skills, these are some JS algorithms that I am going to learn to write not to memorize. 
+
+I am using [GitHub Pages](https://pages.github.com/), [gists theWhiteFox/](https://gist.github.com/theWhiteFox/) and [repl.it](https://repl.it) to write, debug, display and output the code.
 
 Algorithms
 - Fibonacci
@@ -20,6 +24,3 @@ Algorithms
 
 Book
 [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms)
-
-
-
