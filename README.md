@@ -35,3 +35,13 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
 [Theme minima](https://github.com/jekyll/minima)
 
 ## My Workspace
+
+[ubuntu](https://www.ubuntu.com/)
+
+[download mscode](https://code.visualstudio.com/download)
+
+Online Editor [http://prose.io/#theWhiteFox/](http://prose.io/#theWhiteFox/)
+
+[GitHub](https://github.com/theWhiteFox)
+
+[firefox developer](https://www.mozilla.org/en-US/firefox/developer/)
