@@ -2,12 +2,15 @@
 layout: default
 title: About
 permalink: thewhitefox.ninja/about/
+published: true
 ---
 
 <img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
 
-
-blog code on GitHub [blog.theWhiteFox](https://github.com/theWhiteFox/blog) for `blog.theWhiteFox.ninja` 
+blog.theWhiteFox :rocket:
+I am using GitHub to host this blog with a cname from my [blacknight](https://www.blacknight.com/) account.
+[This blog code on GitHub for `blog.theWhiteFox.ninja`](https://github.com/theWhiteFox/blog) 
+I am using [jekll](https://jekyllrb.com/) for many good reasons some are it's static works real good with GitHub Pages easy to set up and get running locally.
 
 [blog.theWhiteFox.ninja](http://blog.theWhiteFox.ninja) is a static site hosted on [GitHub pages](http://pages.github.com/).
 
@@ -21,6 +24,7 @@ blog code on GitHub [blog.theWhiteFox](https://github.com/theWhiteFox/blog) for 
 
 
 ## Running the site locally
+
  - [Install Ruby](https://www.ruby-lang.org/en/installation/)
  - [Install Jekyll](http://jekyllrb.com/)
  - First, cd into the folder where your Jekyll website is stored.
@@ -40,3 +44,15 @@ blog code on GitHub [blog.theWhiteFox](https://github.com/theWhiteFox/blog) for 
 [Disqus](https://disqus.com/)
 
 [Theme minima](https://github.com/jekyll/minima)
+
+## My Workspace
+
+[ubuntu](https://www.ubuntu.com/)
+
+[download mscode](https://code.visualstudio.com/download)
+
+Online Editor [http://prose.io/#theWhiteFox/](http://prose.io/#theWhiteFox/)
+
+[GitHub](https://github.com/theWhiteFox)
+
+[firefox developer](https://www.mozilla.org/en-US/firefox/developer/)
