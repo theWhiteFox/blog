@@ -23,6 +23,7 @@ Welcome to the git repository for `blog.theWhiteFox.ninja` :rocket:
 
 
 ## Resources
+[jekyll/](https://jekyllrb.com/)
 
 [build blog jekyll with github pages](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/)
 
