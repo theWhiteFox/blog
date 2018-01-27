@@ -114,14 +114,15 @@
 /**
  * Site footer
  */
-.site-footer {
-  border-top: 1px solid $my-site-color;
-  padding: $spacing-unit 0;
+.site-footer {  
+  padding: $spacing-unit 0;  
+  background-color:#e24c38; 
 }
 
 .footer-heading {
   @include relative-font-size(1.125);
   margin-bottom: $spacing-unit / 2;
+  color: white;
 }
 
 .contact-list,
@@ -132,7 +133,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: white;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
@@ -184,9 +185,15 @@
 /**
  * Page content
  */
-// .page-content {
-//   padding: $spacing-unit 0;
-// }
+.page-content {
+  padding: 0;
+}
+
+.post-content {
+ background-color: white;
+ padding: 1em;
+ 
+}
 
 .page-heading {
   @include relative-font-size(1.25);
@@ -203,7 +210,13 @@
   > li {    
     padding-top: 1em;
     padding-bottom: .5em;
-    border-bottom: 1px solid $my-site-color;
+    border-bottom: 1px solid $my-site-color;   
+  }
+}
+
+.post-content { 
+  > ul li { 
+    list-style: lower-roman; 
   }
 }
 
@@ -232,10 +245,17 @@
   @include relative-font-size(.9);
   letter-spacing: -1px;
   line-height: 1;
+  background-color: white;
+  padding: 1em;
 
   @include media-query($on-laptop) {
     @include relative-font-size(1);
   }
+}
+
+.post-title .title > h2 {
+  padding-bottom: .3em;
+  color:red;
 }
 
 .post-content {

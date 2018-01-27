@@ -19,6 +19,9 @@ Algorithms
 - Dijkstra
   1. impove my understanding of networking with JS 
 
+<br/>
+#### Useful links
+
 [thewhitefox JS Algorithms](http://thewhitefox.github.io/Algorithms-JS/)
 
 [Why are algorithms so important](https://www.quora.com/Why-are-algorithms-so-important)
