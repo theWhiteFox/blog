@@ -7,10 +7,11 @@ published: true
 
 <img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
 
-blog.theWhiteFox :rocket:
-I am using GitHub to host this blog with a cname from my [blacknight](https://www.blacknight.com/) account.
+I am using GitHub to host this blog with a cname using [blacknight](https://www.blacknight.com/)
+
 [This blog code on GitHub for `blog.theWhiteFox.ninja`](https://github.com/theWhiteFox/blog) 
-I am using [jekll](https://jekyllrb.com/) for many good reasons some are it's static works real good with GitHub Pages easy to set up and get running locally.
+
+I am using [jekll](https://jekyllrb.com/) for many good reasons, some are: it's static, works real good with GitHub Pages easy to set up and get running locally.
 
 [blog.theWhiteFox.ninja](http://blog.theWhiteFox.ninja) is a static site hosted on [GitHub pages](http://pages.github.com/).
 

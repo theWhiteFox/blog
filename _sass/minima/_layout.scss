@@ -198,10 +198,11 @@
 .post-list {
   margin-left: 0;
   list-style: none;  
-  padding-left: .5em;
+  // padding-left: .5em;
 
-  > li {
-    margin-bottom: $spacing-unit;
+  > li {    
+    padding-top: 1em;
+    padding-bottom: .5em;
     border-bottom: 1px solid $my-site-color;
   }
 }
@@ -209,11 +210,13 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  padding-left: 1em;
 }
 
 .post-link {
   display: block;
   @include relative-font-size(1.2);
+  padding-left: .7em;
 }
 
 
