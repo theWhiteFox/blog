@@ -9,7 +9,7 @@ published: true
 
 My blog will be a journal, a reflective tool in my programming adventures. As I learn, I will write about what I am learning. Writing will solidify my understanding of what I am learning also writing will help in the process of me becoming a polyglot programmer. 
 
-Why I chose [jekll](https://jekyllrb.com/) it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
+I chose [jekyll](https://jekyllrb.com/) for a blog because it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
 
 I am using GitHub to host with a [blacknight cname](https://help.blacknight.com/hc/en-us/articles/212512209-DNS-records-in-cp-blacknight-com)
 `GitHub code` for [blog.theWhiteFox.ninja](https://github.com/theWhiteFox/blog) 
@@ -39,7 +39,8 @@ Dependencies: ruby 2.3.1 | gem 2.5.1 | jekyll 3.4.3 | Disqus
             <li><a href="http://garthdb.com/writings/i-am-a-jekyll-god">I am a jekyll god</a></li>
             <li><a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/">build blog jekyll github pages</a></li>
             <li><a href="https://disqus.com/">Disqus</a></li>
-            <li><a href="https://github.com/jekyll/minima"></a>Theme minima</li>
+            <li><a href="https://github.com/jekyll/minima">Theme minima</a></li>
+            <li><a href="https://blog.lelonek.me/be-a-polyglot-programmer-6e7423916ed8">Medium be a polyglot programmer</a></li>
         </ul>
     </div>
     <div class="column-right">
