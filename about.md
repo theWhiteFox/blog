@@ -7,21 +7,16 @@ published: true
 
 <img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
 
-This blog will be used as a reflective tool for my adventures in programming. As I learn, I will write about what I am learning. As writing about what I am learning with help the process of becomming a polyglot programmer. Writing will solidify my understanding of what I am learning. 
+My blog will be a journal, a reflective tool in my programming adventures. As I learn, I will write about what I am learning. Writing will solidify my understanding of what I am learning also writing will help in the process of me becoming a polyglot programmer. 
 
+Why I chose [jekll](https://jekyllrb.com/) it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
 
-I am using [jekll](https://jekyllrb.com/) for good reasons, it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
-
-I am using GitHub to host this blog with a [blacknight cname](https://help.blacknight.com/hc/en-us/articles/212512209-DNS-records-in-cp-blacknight-com)
+I am using GitHub to host with a [blacknight cname](https://help.blacknight.com/hc/en-us/articles/212512209-DNS-records-in-cp-blacknight-com)
 `GitHub code` for [blog.theWhiteFox.ninja](https://github.com/theWhiteFox/blog) 
 
-| Lanuages     | Dependencies 	  | 
-| ------------ | :--------------- |
-| HTML 		   | Jekyll   	  |
-| Ruby		   | RubyGems     |
-| JS           |  Disqus	  |
-| SASS         |              |
+Lanuages: HTML | Ruby | JavaScript JS | SASS
 
+Dependencies: ruby 2.3.1 | gem 2.5.1 | jekyll 3.4.3 | Disqus 
 
 <div class="three-columns">
     <div class="column-left">
