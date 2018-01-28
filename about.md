@@ -7,7 +7,8 @@ published: true
 
 <img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
 
-This blog will be used as a reflective tool for my adventure in programming. As I learn I will write about what I have lernt. As writting about what I am leaning with help in the learning process. Writting with reafriming my understanfing of what I am tolearn. 
+This blog will be used as a reflective tool for my adventures in programming. As I learn, I will write about what I am learning. As writing about what I am learning with help the process of becomming a polyglot programmer. Writing will solidify my understanding of what I am learning. 
+
 
 I am using [jekll](https://jekyllrb.com/) for good reasons, it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
 
