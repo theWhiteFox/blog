@@ -210,3 +210,29 @@ pre {
     padding-top: 5px;
   }
 }
+
+// theWhiteFox
+
+  .column-center > ul > li {
+    list-style-type: square 
+  }
+     
+    .column-right > ul > li {
+      list-style-type: square
+    }
+  
+.column-left{ 
+  float: left;
+  width: 33%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
+}
+.column-right{
+  float: right;
+  width: 33%;
+  text-align: right;
+}
