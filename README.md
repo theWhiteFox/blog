@@ -1,12 +1,13 @@
 ---
 layout: default
 title: About
-permalink: thewhitefox.ninja/about/
+permalink: about
 published: true
 ---
 
 <img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
 
+<div class="post-content" itemprop="articleBody">
 My blog will be a journal, a reflective tool in my programming adventures. As I learn, I will write about what I am learning. Writing will solidify my understanding of what I am learning also writing will help in the process of me becoming a polyglot programmer. 
 
 I chose [jekyll](https://jekyllrb.com/) for a blog because it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
@@ -53,4 +54,5 @@ Dependencies: ruby 2.3.1 | gem 2.5.1 | jekyll 3.4.3 | Disqus
         <li><a href="https://www.mozilla.org/en-US/firefox/developer">Firefox Quantum: Developer Edition</a></li>
     </ul>
     </div>
+</div>
 </div>
