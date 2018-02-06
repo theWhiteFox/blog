@@ -8,16 +8,36 @@ published: true
 <img style="width: 1170px; height: auto;" src="http://thewhitefox.ninja/img/theWhiteFoxLogo04-GitHub.svg">
 
 <div class="post-content" itemprop="articleBody">
-My blog will be a journal, a reflective tool in my programming adventures. As I learn, I will write about what I am learning. Writing will solidify my understanding of what I am learning also writing will help in the process of me becoming a polyglot programmer. 
+My blog will be my journal, a reflective tool in my programming adventures. As I learn, I will write about what I am learning. Writing will solidify my understanding of programming.
 
-I chose [jekyll](https://jekyllrb.com/) for a blog because it's static, works real good with [GitHub Pages](https://pages.github.com/) easy to set up and get running locally with [Ubuntu](https://www.ubuntu.com/) [Ruby](https://www.ruby-lang.org/en/) [apps ubuntu terminator/](https://apps.ubuntu.com/cat/applications/precise/terminator/) 
+I chose <a href="https://jekyllrb.com">jekyll</a> because it's static, works real good with <a href="https://pages.github.com">GitHub Pages</a> easy to set up and get running locally with <a href="https://www.ubuntu.com">Ubuntu</a>, <a href="https://www.ruby-lang.org/en">Ruby</a> & <a href="https://apps.ubuntu.com/cat/applications/precise/terminator">apps ubuntu terminator</a>
 
-I am using GitHub to host with a [blacknight cname](https://help.blacknight.com/hc/en-us/articles/212512209-DNS-records-in-cp-blacknight-com)
-`GitHub code` for [blog.theWhiteFox.ninja](https://github.com/theWhiteFox/blog) 
+I am using GitHub to host with a <a href="https://help.blacknight.com/hc/en-us/articles/212512209-DNS-records-in-cp-blacknight-com">blacknight cname</a>
+<code>GitHub code</code> for <a href="https://github.com/theWhiteFox/blog">blog.theWhiteFox.ninja</a>
+<br>
 
-Lanuages: HTML | Ruby | JavaScript JS | SASS
+<div class="three-columns">
+    <div class="column-left">
+    <h4>Lanuages</h4>
+<ul>
 
-Dependencies: ruby 2.3.1 | gem 2.5.1 | jekyll 3.4.3 | Disqus 
+<li>HTML</li> 
+<li>Ruby</li> 
+<li>JS</li> 
+<li>SASS</li>
+</ul>
+</div>
+<div class="column-center">
+<ul>
+<h4>Dependencies</h4>
+<li>ruby 2.3.1</li>
+<li>gem 2.5.1</li>
+<li>jekyll 3.4.3</li>
+<li>Disqus </li>
+</ul>
+</div>
+<div class="column-right"></div>
+</div>
 
 <div class="three-columns">
     <div class="column-left">
