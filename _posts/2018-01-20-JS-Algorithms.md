@@ -18,9 +18,12 @@ Algorithms
   1. an interesting way to test my programming skills
 - Dijkstra
   1. impove my understanding of networking with JS 
+- Harmless Ransome Note
+  1. Big O notation
+- Palindrome
 
 <br/>
-#### Useful links
+#### Links
 
 [thewhitefox JS Algorithms](http://thewhitefox.github.io/Algorithms-JS/)
 
@@ -31,3 +34,7 @@ Algorithms
 [How to Implement Dijkstras](https://hackernoon.com/how-to-implement-dijkstras-algorithm-in-javascript-abdfd1702d04)
 
 [wikipedia Edsger W. Dijkstra](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) 
+
+[thatjsdude check Palindrome](https://thatjsdude.com/interview/js1.html#checkPalindrome)
+
+[learning JS algorithm from scratch](https://medium.com/@renhades/learning-algorithm-in-javascript-from-scratch-8247f89a8606)
