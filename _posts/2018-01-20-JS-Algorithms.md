@@ -38,3 +38,7 @@ Algorithms
 [thatjsdude check Palindrome](https://thatjsdude.com/interview/js1.html#checkPalindrome)
 
 [learning JS algorithm from scratch](https://medium.com/@renhades/learning-algorithm-in-javascript-from-scratch-8247f89a8606)
+
+[palindromelist](http://www.palindromelist.net/)
+
+[two ways to check for palindromes JS](https://medium.freecodecamp.org/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7)
