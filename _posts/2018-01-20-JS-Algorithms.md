@@ -21,6 +21,8 @@ Algorithms
 - Harmless Ransome Note
   1. Big O notation
 - Palindrome
+  1. String & array manipulation
+  1. String and array methods
 
 <br/>
 #### Links
