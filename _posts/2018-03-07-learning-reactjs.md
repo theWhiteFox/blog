@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title:  "Learning ReactJS"
 date:   2018-03-07 20:09:41
