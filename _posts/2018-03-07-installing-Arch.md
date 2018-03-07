@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning ReactJS"
+title:  "Install Arch"
 date:   2018-03-07 20:46:41
 categories: Learning Linux
 ---
