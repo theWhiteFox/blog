@@ -5,16 +5,16 @@ date:   2018-03-07 20:09:41
 categories: Learning ReactJS
 ---
 
-## What is ReactJS & why I want to learn it. 
+#### What is ReactJS & why I want to learn it
 I want to learn ReactJS  
 
-## Ubuntu ClI & GitHub Pages
+#### Ubuntu Cli & GitHub Pages
 I gonna start building a ReactJS app using Ubuntu cli and GitHub Pages.
 
-## What I have got so far...
+#### What I have got so far
 GitHub Pages [create-react-app](https://thewhitefox.github.io/create-react-app/)
 
-### Links
+#### Links
 
 [why ReactJS](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76 "why ReactJS title")
 
