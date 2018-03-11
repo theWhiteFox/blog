@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Algorithms
-date: {}
+date:   2018-01-20 19:58:41
 categories: JavaScript
 published: true
 ---
