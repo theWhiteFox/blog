@@ -24,6 +24,8 @@ Algorithms
 - Palindrome
   1. String & array manipulation
   1. String and array methods
+- Caesar's Cipher
+  1. encryption 
 
 <br/>
 #### Links
@@ -45,3 +47,5 @@ Algorithms
 [palindromelist](http://www.palindromelist.net/)
 
 [two ways to check for palindromes JS](https://medium.freecodecamp.org/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7)
+
+[medium Tim Severien substitution cipher JS](https://medium.com/@TimSeverien/substitution-cipher-in-javascript-d530eb2d923d)
