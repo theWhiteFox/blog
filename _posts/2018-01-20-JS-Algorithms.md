@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript Algorithms
-date:   2018-01-20 19:58:41
+date: {}
 categories: JavaScript
 published: true
 ---
@@ -26,6 +26,7 @@ Algorithms
   1. String and array methods
 - Caesar's Cipher
   1. encryption 
+- Reverse a string
 
 <br/>
 #### Links
@@ -49,3 +50,5 @@ Algorithms
 [two ways to check for palindromes JS](https://medium.freecodecamp.org/two-ways-to-check-for-palindromes-in-javascript-64fea8191fd7)
 
 [medium Tim Severien substitution cipher JS](https://medium.com/@TimSeverien/substitution-cipher-in-javascript-d530eb2d923d)
+
+[Reverse a string](https://medium.com/sonyamoisset/reverse-a-string-in-javascript-a18027b8e91c)
