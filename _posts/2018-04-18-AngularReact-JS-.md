@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning JS with Angular & React
-date: {}
+date: 2018-04-18 21:14:41
 categories: Learning ReactJS
 published: true
 ---
