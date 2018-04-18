@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Learning JS with Angular & React"
-date:   2018-04-11 22:00:41
+title: Learning JS with Angular & React
+date: {}
 categories: Learning ReactJS
+published: true
 ---
 
-Learning JS with Angular & React
+Learning JavaScript (JS) with Angular & React and maybe a little ember. I'm learning these JS Model View Controller fameworks to improve my understanding of JS and how it works. 
+
+
